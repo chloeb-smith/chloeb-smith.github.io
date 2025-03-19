@@ -44,12 +44,12 @@ body {
   h1 {
     font-size: 2.5rem;
     margin: 0;
-    color: #01579b; /* Deep blue color for headings */
+    color: #006399; /* Deep blue color for headings */
   }
   
   h2 {
     font-size: 1.8rem;
-    color: #0288d1; /* Medium blue for subheadings */
+    color: #006399; /* Medium blue for subheadings */
   }
   
   .content p, .links ul {
